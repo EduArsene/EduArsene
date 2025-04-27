@@ -58,8 +58,8 @@
 ### 📫 Contáctame
 
 <p align="center">
-  <a href="mailto:eduardoanthonny283@gmail.com"><img src="https://img.shields.io/badge/email-anton.mvg@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/antonmarinos"><img src="https://img.shields.io/badge/LinkedIn-Ed-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:eduardoanthonny283@gmail.com"><img src="https://img.shields.io/badge/eduardoanthonny283@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eduardomariñosvergaray"><img src="https://img.shields.io/badge/LinkedIn-Ed-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/EduArsene"><img src="https://img.shields.io/badge/GitHub-@EduArsene-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
