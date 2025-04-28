@@ -4,7 +4,7 @@
 <p align="center" >
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRhMXNmbzk2bDh3Y242dnRhMXVrMnJsMjdnb3RmdnFtNDBsZ2E2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlKN0pAfAduGRYWdbQ/giphy.gif" 
        alt="Cyberpunk Ghibli Retro Animation" 
-       width="900" height="300" />
+       width="900" height="250" />
 </p>
 
 <h1 align="center">
