@@ -46,12 +46,12 @@
 
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto | Descripción |tecnologías |
 |---------|-------------|-------------|
 | **📄 Foliador Inteligente** | App de escritorio para gestionar documentos con control automático de folios. | Python + Tkinter + ReportLab |
-| **🌿 LeafScan** | Sistema con ML para detectar enfermedades en hojas de café. | Python + Scikit-learn + OpenCV |
+| **🎨 Diseño Frontend** | Elaboración de diseño Frontend con distintas herramientas. | React + Tailwind + node.js, etc |
 | **🔐 CyberVault** | Simulación de entorno seguro en VirtualBox + OpenMediaVault. | Redes + Seguridad + Virtualización |
-| **🖌️ Desing** | Diseños de prototipos web. | Figma |
+| **🖌️ Desing** | Diseños de prototipos web y diseños variados. | Figma, Photoshop |
 
 ---
 
