@@ -49,7 +49,7 @@
 | Proyecto | Descripción |tecnologías |
 |---------|-------------|-------------|
 | **📄 Foliador Inteligente** | App de escritorio para gestionar documentos con control automático de folios. | Python + Tkinter + ReportLab |
-| **🎨 Diseño Frontend** | Elaboración de diseño Frontend con distintas herramientas. | React + Tailwind + node.js, etc |
+| **🎨 Diseño Frontend** | Elaboración de diseño Frontend con distintas herramientas. | React + Tailwind + Astro, etc |
 | **🔐 CyberVault** | Simulación de entorno seguro en VirtualBox + OpenMediaVault. | Redes + Seguridad + Virtualización |
 | **🖌️ Desing** | Diseños de prototipos web y diseños variados. | Figma, Photoshop |
 
