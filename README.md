@@ -13,7 +13,7 @@
 
 <!-- 🧙‍♂️ INTRO ANIMADA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+IA,+ciberseguridad+y+el+desarrollo+web;Creando+soluciones+con+magia+tecnológica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Egresado+de+Ingeniería+de+Sistemas;Apasionado+por+la+IA,+ciberseguridad+y+el+desarrollo+web;Creando+soluciones+con+magia+tecnológica" alt="Typing SVG" />
 </p>
 
 <!-- 🌌 IMÁGENES ANIMADAS A LOS LADOS -->
